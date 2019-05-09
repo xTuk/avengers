@@ -3,4 +3,3 @@
 * Redskull
 * Thanos
 * Loki
-* Capitán America
